@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img src="https://www.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_16739195.htm" width="550" height="320" /></p>
-
 <h1 align="center">Hi 👋, I'm Seda Nur</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
