@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FPP9v7VIs6R4AAAAd%2Fscaler-create-impact.gif&tbnid=eHTk0ty_r4DumM&vet=12ahUKEwjOkN-s1cGBAxUz7rsIHa-4BJcQMygMegQIARB3..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fscaler-create-impact-coding-programming-chill-gif-24991316&docid=NvJVqQBc3zq9PM&w=640&h=480&q=animated%20coding%20gif%20for%20girl&ved=2ahUKEwjOkN-s1cGBAxUz7rsIHa-4BJcQMygMegQIARB3">  
+<p><img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FPP9v7VIs6R4AAAAd%2Fscaler-create-impact.gif&tbnid=eHTk0ty_r4DumM&vet=12ahUKEwjOkN-s1cGBAxUz7rsIHa-4BJcQMygMegQIARB3..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fscaler-create-impact-coding-programming-chill-gif-24991316&docid=NvJVqQBc3zq9PM&w=640&h=480&q=animated%20coding%20gif%20for%20girl&ved=2ahUKEwjOkN-s1cGBAxUz7rsIHa-4BJcQMygMegQIARB3"/></p> 
   
 <h1 align="center">Hi 👋, I'm Seda Nur</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
