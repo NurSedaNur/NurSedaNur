@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/seda nur ekici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seda nur ekici" height="30" width="40" /></a>
 <a href="https://instagram.com/seda.ekc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seda.ekc" height="30" width="40" /></a>
-<a href="https://medium.com/@seda nur ekici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seda nur ekici" height="30" width="40" /></a>
+<a href="https://medium.com/@sedanur.ekc.312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seda nur ekici" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
