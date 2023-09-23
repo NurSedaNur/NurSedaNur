@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Seda Nur</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Ff75ac2f2-116a-11ee-aa38-a35154041321%2FUTSEH078Aw.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwjOkN-s1cGBAxUz7rsIHa-4BJcQMygGegQIARBl..i&imgrefurl=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&docid=dvMN-VLDkQ65xM&w=640&h=640&itg=1&q=animated%20coding%20gif%20for%20girl&ved=2ahUKEwjOkN-s1cGBAxUz7rsIHa-4BJcQMygGegQIARBl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursedanur&label=Profile%20views&color=0e75b6&style=flat" alt="nursedanur" /> </p>
 
