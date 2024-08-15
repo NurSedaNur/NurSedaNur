@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursedanur&label=Profile%20views&color=0e75b6&style=flat" alt="nursedanur" /> </p>
 
-- 🌱 I’m currently learning **Web Programming, AI, Data Mining, Backend Development**
+- 🌱 I’m currently learning **Web Programming, Backend Development, AI, Data Mining**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NurSedaNur](https://github.com/NurSedaNur)
 
